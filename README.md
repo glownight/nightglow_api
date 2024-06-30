@@ -1,6 +1,11 @@
 # nightglow_api
 个人网站api端
 
+
+0630 -初始化（卡在了第10课，原因是MySQL和MySQL Workbench不会使用）
+
+-------------------
+
 课程链接：https://www.bilibili.com/video/BV1Zg411Y7fb?p=10
 
 mysql软件：MySQL Workbench
